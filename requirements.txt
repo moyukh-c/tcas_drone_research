@@ -1,0 +1,7 @@
+# Libraries to pip install
+
+gpiozero   # pre-installed on Raspbian OS
+pyserial
+adafruit-circuitpython-gps
+Adafruit-Blinka
+adafruit-circuitpython-rfm69
