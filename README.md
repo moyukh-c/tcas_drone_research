@@ -2,7 +2,7 @@
 
 ## Overview
 
-The objective of this project is to find a low-cost, collision avoidance system for drones which is easy to build with off-the-shelf components such as Raspberry Pi, GPS modules, and RF transceivers.
+###The objective of this project is to find a low-cost, collision avoidance system for drones which is easy to build with off-the-shelf components such as Raspberry Pi, GPS modules, and RF transceivers.
 ---
 
 ## Project Structure
