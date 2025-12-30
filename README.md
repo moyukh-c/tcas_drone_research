@@ -1,13 +1,13 @@
-# Enhancing Airspace Safety Through a Cost-Effective Collision Avoidance Solution For Drones
+## Enhancing Airspace Safety Through a Cost-Effective Collision Avoidance Solution For Drones
 
-## Overview
+### Overview
 
 This repository contains the code of the collision detector for drones described in the paper
 ["Enhancing Airspace Safety Through a Cost-Effective Collision Avoidance Solution"](https://nhsjs.com/2025/enhancing-airspace-safety-through-a-cost-effective-collision-avoidance-solution/). The objective of this project is to find a low-cost, collision avoidance system for drones which is easy to build with off-the-shelf components such as Raspberry Pi, GPS modules, and RF transceivers.
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 project
@@ -23,7 +23,7 @@ The program will:
 3. Listen for other drones’ location data
 4. Print collision warnings if a potential collision is detected
 ---
-## Hardware Requirements
+### Hardware Requirements
 
 * Raspberry Pi Zero 2w / Pico
 * Adafruit Ultimate GPS Breakout
@@ -31,7 +31,7 @@ The program will:
 
 ---
 
-## Create Virtual Environment on Raspberry Pi
+### Create Virtual Environment on Raspberry Pi
 
 ```bash
 python3 -m venv --system-site-packages venv.<name>
@@ -40,7 +40,7 @@ pip3 install -r requirements.txt
 
 ---
 
-## Enable UART on Raspberry Pi
+### Enable UART on Raspberry Pi
 
 ```bash
 sudo raspi-config
@@ -52,7 +52,7 @@ sudo raspi-config
 
 ---
 
-## Running the Program
+### Running the Program
 
 ```bash
 python3 tcas_drone_app.py
