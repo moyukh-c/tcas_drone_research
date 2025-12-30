@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains the code of the collision detector for drones described in the paper
-["Enhancing Airspace Safety Through a Cost-Effective Collision Avoidance Solution"](https://nhsjs.com/2025/enhancing-airspace-safety-through-a-cost-effective-collision-avoidance-solution/#identifier_31_34390). The objective of this project is to find a low-cost, collision avoidance system for drones which is easy to build with off-the-shelf components such as Raspberry Pi, GPS modules, and RF transceivers.
+["Enhancing Airspace Safety Through a Cost-Effective Collision Avoidance Solution"](https://nhsjs.com/2025/enhancing-airspace-safety-through-a-cost-effective-collision-avoidance-solution/). The objective of this project is to find a low-cost, collision avoidance system for drones which is easy to build with off-the-shelf components such as Raspberry Pi, GPS modules, and RF transceivers.
 
 ---
 
